@@ -1,5 +1,5 @@
 # The Site Configuration
-
+theme: jekyll-theme-chirpy
 # Import the theme
 theme: 王超的个人博客
 
