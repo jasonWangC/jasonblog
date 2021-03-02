@@ -5,7 +5,7 @@ theme: 王超的个人博客
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: 'jasonblog'
+baseurl: '/jasonblog'
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
 lang: en-US
@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: 个人博客                         # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -25,7 +25,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://jasonwangc.github.io'
+url: 'https://jasonblog.github.io'
 
 author: 王超                  # change to your full name
 
